@@ -1,0 +1,10 @@
+echo "# nykaa-fashion-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rohan693479034/nykaa-fashion-.git
+git push -u origin main
+git remote add origin https://github.com/rohan693479034/nykaa-fashion-.git
+git branch -M main
+git push -u origin main
